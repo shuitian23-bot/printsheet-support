@@ -1,2 +1,1 @@
-# printsheet-support
-Public support and printing guides for PrintSheet.
+PrintSheet support and privacy pages.

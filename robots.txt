@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shuitian23-bot.github.io/printsheet-support/sitemap.xml
